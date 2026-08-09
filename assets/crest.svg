@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 148" role="img" aria-labelledby="title desc">
+  <title id="title">Junior Hernandez Paulino shield monogram</title>
+  <desc id="desc">A restrained crimson and ivory shield containing the initials JHP.</desc>
+  <path d="M64 4 119 23v48c0 35-22 59-55 73C31 130 9 106 9 71V23L64 4Z" fill="#0b0b0d" stroke="#a51c30" stroke-width="5"/>
+  <path d="M64 13 109 29v41c0 28-16 48-45 62-29-14-45-34-45-62V29L64 13Z" fill="none" stroke="#f4efe6" stroke-opacity=".55" stroke-width="2"/>
+  <text x="64" y="87" text-anchor="middle" fill="#f4efe6" font-family="Georgia,serif" font-size="36" font-weight="700" letter-spacing="-2">JHP</text>
+  <path d="M35 104h58" stroke="#a51c30" stroke-width="3"/>
+</svg>
